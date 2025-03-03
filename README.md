@@ -6,6 +6,7 @@
 - The **`Final_Model_on_DevSet.ipynb`** notebook is used to:
   - Load the saved trained model.
   - Test it on the **development dataset (`dev_semeval_parids-labels.csv`)**.
+  - Generate labels using the trained model.
 
 - Generated labels for devset is in **`dev.txt`** and for the hidden test set is in **`test.txt`**.
 
